@@ -1,0 +1,22 @@
+{
+  "name": "searchcontent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages dist -d"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasanfuad/Sorttable.git"
+  },
+  "author": "fuad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasanfuad/Sorttable/issues"
+  },
+  "homepage": "https://hasanfuad.github.io/sortContent",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
